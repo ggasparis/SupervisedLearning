@@ -11,3 +11,5 @@ With the exception of dummy classifiers, the objective is to find for every othe
 * The optimal hyper-parameters (of both transformers and of the classifier) ​​via grid search and crossvalidation.
 
 _For more info check out the Assignment document._
+
+_The notebook contains mostly comments in Greek_
